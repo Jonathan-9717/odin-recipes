@@ -1,3 +1,51 @@
+body {
+    font: Tahoma, sans-serif;
+    line-height: 1.5rem;
+}
+
+.home-list {
+    list-style: none;
+    text-align: center;
+}
+
 ul li a {
-    font-size: 36px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    color: yellow;
+}
+
+ul {
+    display: inline-block;
+    background-color: rgb(25, 97, 97);
+    color: white;
+}
+
+ol {
+    display: inline-block;
+    background-color: salmon;
 }
